@@ -1,1 +1,11 @@
-# github_gestion_conflictos-humberto_jaimes_proyecto_final_1
+# Proyecto Final
+## Parte 1: Crea tu primer conflicto
+
+1. Lo primero que debes hacer es hacer una bifurcación o Fork de este proyecto.
+2. Ahora crea un par de ramas tomando como base la rama Main. Puedes llamarlas como desees, trata de que tengan un nombre descriptivo como Development, Feature, Fix, etc.
+3. Elige alguno de los archivos del repositorio y modifícalo desde ambas ramas, ten en mente que el cambio debe crear un conflicto.
+4. Realiza el proceso de Merge desde ambas ramas hacia la rama principal.
+5. Si lograste generar un conflicto, has terminado, aún no resuelvas el conflicto.
+6. Para desarrollar este avance, deberás tener una captura de pantalla del mensaje de error que te muestre Github.
+7. En este avance, lo más importante es haber generado un conflicto simple dentro de tu repositorio, de momento no es importante resolverlo.
+8. Para realizar con éxito este avance, asegúrate de tener claro como funciona GitHub, recuerda que no todas las modificaciones al mismo archivo van a causar un conflicto.
